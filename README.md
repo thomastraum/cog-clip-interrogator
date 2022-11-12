@@ -1,3 +1,13 @@
+
+
+
+- added blip config
+
+
+
+
+
+------------------------------ old readme
 # clip-interrogator
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pharmapsychotic/clip-interrogator/blob/main/clip_interrogator.ipynb) Version 2
